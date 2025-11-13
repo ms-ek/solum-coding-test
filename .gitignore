@@ -1,0 +1,5 @@
+# Compiled class files
+target/
+
+# VS Code
+.vscode/
