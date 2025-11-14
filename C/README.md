@@ -7,6 +7,7 @@ This folder contains the solution for task 3 (Frontend Test) of the coding test.
 To start the server, run the command:
 
 ```
+npm i
 npm run dev
 ```
 
